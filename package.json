@@ -2,6 +2,21 @@
   "name": "amarant2-core-js",
   "version": "1.0.0",
   "description": "Amarant Commerce 2.x Core JS Package",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/amarant-commerce/ama2-core-js"
+  },
+  "keywords": [
+    "amarant",
+    "amarant-commerce",
+    "ecommerce"
+  ],
+  "author": "Ivan Rogar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/amarant-commerce/ama2-core-js/issues"
+  },
+  "homepage": "https://github.com/amarant-commerce/ama2-core-js",
   "dependencies": {
     "@ckeditor/ckeditor5-autoformat": "^41.3.0",
     "@ckeditor/ckeditor5-basic-styles": "^41.3.0",
