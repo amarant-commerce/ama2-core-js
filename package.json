@@ -50,6 +50,7 @@
     "jquery-serializejson": "^3.2.1",
     "jquery.fancytree": "^2.38.3",
     "jstree": "^3.3.16",
+    "legacy-bootstrap": "npm:bootstrap@^3.4.1",
     "less": "^4.2.0",
     "lodash": "^4.17.21",
     "qs": "^6.0",
