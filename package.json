@@ -23,6 +23,7 @@
     "@fontsource/jost": "^5.0.18",
     "@fontsource/montserrat": "^5.1.1",
     "@fontsource/open-sans": "^5.1.1",
+    "@fontsource/quicksand": "^5.2.8",
     "@fortawesome/fontawesome-free": "^6.5.1",
     "@popperjs/core": "^2.11.8",
     "@rollup/plugin-inject": "^5.0.5",
