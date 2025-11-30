@@ -60,6 +60,7 @@
     "vite-tsconfig-paths": "^4.3.2",
     "vue": "^3.5.13",
     "pinia": "^3.0.1",
+    "playwright": "^1.57.0",
     "primevue": "^4.3.6",
     "@types/alpinejs": "^3.13.11",
     "vue-i18n": "^10.0.6",
@@ -68,6 +69,8 @@
     "@vueuse/components": "^13.0.0"
   },
   "devDependencies": {
+    "@playwright/test": "^1.57.0",
+    "@types/alpinejs": "^3.13.11",
     "autoprefixer": "^10.4.16",
     "dotenv-run-script": "^0.4.1",
     "openapi-typescript-codegen": "github:amarant-commerce/openapi-typescript-codegen",
