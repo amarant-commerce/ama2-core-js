@@ -75,6 +75,7 @@
     "@types/alpinejs": "^3.13.11",
     "autoprefixer": "^10.4.16",
     "dotenv-run-script": "^0.4.1",
+    "es-module-lexer": "^2.1.0",
     "openapi-typescript-codegen": "github:amarant-commerce/openapi-typescript-codegen",
     "postcss": "^8.4.32",
     "rollup-plugin-copy": "^3.5.0",
